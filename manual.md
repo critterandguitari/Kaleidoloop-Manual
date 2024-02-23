@@ -38,7 +38,9 @@ Audio format: 48 kHz, 16-bit.
 
 ### Sound Input
 
-Kaleidoloop inputs audio from the top left 1/4"  audio Input Jack. Connect a cable to an instrument, synthesizer, mixer, microphone, electric guitar... 
+Kaleidoloop inputs audio from the top left 1/4"  audio Input Jack. 
+
+Noise from phantom power - Connect a cable to an instrument, synthesizer, mixer, microphone, electric guitar... 
 
 Audio format: 48 kHz, 16-bit.
 
@@ -53,6 +55,40 @@ Turn it up!
 ### Record
 
 Press the center button to begin recording. Press again to stop recording. When you stop recording the sound will immediately being looping. Playback will continue during record, so if you are recording with the mic and don't want it bleeding thru, turn it down.
+
+### Mode Select
+
+This button cycles through six playback modes.
+
+### Knobs 1 & 2
+
+These knobs control different things depending on the playback Mode
+
+## Default Playback Modes
+
+The 'stock' **Modes** are:  
+
+|Mode|Name|Description|Key|Right LED Status| |
+|:---:|---|---|---|---|:---|
+|1|Red Mode |Simple Waveform with Vibrato  |Middle B|Purple | ![](images/LEDcolors/purple.png) |
+|2|AddMono|Monophonic Additive Synth |High C|Pink | ![](images/LEDcolors/pink.png) |
+|3|Synth Drums|Synthesized Drums  |High D|Blue |![](images/LEDcolors/blue.png) |
+|4|String Synth|Physical-Modeling Plucked String Synth |High E|Green |![](images/LEDcolors/green.png) |
+|5|Vocal2|Duophonic Voice Synthesizer|High F|Orange |![](images/LEDcolors/orange.png) |
+|6|Sample|Each key plays a different sample|High G|Red |![](images/LEDcolors/red.png) |
+
+
+##Using Batteries
+
+To use your 201 portably, add three 'AA' batteries to the battery compartment. To access the battery compartment, flip 201 over and remove the screw holding the battery door in place. With the door off, insert batteries so that the negative end (-) of the batteries are connected to the springs; the positive end (+) of the batteries are connected to the flat tabs. Replace the door and screw when finished.
+
+When the batteries are running low, the Power button will turn red. You may notice that the power button briefly flash red when a louder sound is played. This is normal and just means that the batteries are starting to get low. 
+
+Warnings for battery use:  
+
+- **Do not** mix battery types (such as NiMH & Alkaline).  
+- **Do not** mix old & new batteries.  
+- **Do not** mix used & fresh batteries.  
 
 
 ## File Management 
