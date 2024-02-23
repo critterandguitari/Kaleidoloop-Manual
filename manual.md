@@ -74,8 +74,18 @@ On your computer, open a file browser (Finder for Mac, Explorer for Windows). In
 
 Exit Disk Mode with the same key combo: pressing NEXT and while holding it down pressing MODE.
 
-### Loading Your Own Loops
+![](images/modes.png)
 
+
+### Loading Your Own Loops
+The Kaleidoloop will save its recordings with numbers: 1.wav, 2.wav, and so on. You can add your own files to the SD card using Disk Mode. The files can be named whatever you would like, but know that the Kaleidoloop will sort the files by number first and then letter as shown here:
+
+![](images/recordings.png)
+
+Some file tips:
+
+* Please avoid 'spaces' in file names. Use hyphens and/or underscores instead: *0_cool-drums.wav*. 
+* Files should be in 48KHz 16-bit .wav format.
 
 ## Setup Examples
 
