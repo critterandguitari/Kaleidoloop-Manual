@@ -17,70 +17,25 @@ You probably want to get started right away! Here are a few steps to get you mak
 5. Playback begins in a loop.
 6. Use the mode button change playback mode and use the knobs to manipulate plaback.
 
-## The Front Panel
+## The Top Panel
 
+![](images/top_panel.png)
 
 ## Using Your Kaleidoloop
 
 ### Power
 
+#### USB Power
+
 First connect the USB-C power adapter. Connect the adapter to a power outlet, and then connect its plug to the leftmost port on the back of Kaleidoloop. 
 
-Once Kaleidoloop is connected to power it will automatically power on. The LEDs (M) will illuminate, which means the unit is powered. If Kaleidoloop is already connected to power, press the Power Switch (E) for one second, or until the LEDs turn on. 
+Once Kaleidoloop is connected to power it will automatically power on. The LEDs will flash green, red, and red again, which means the unit is powered. If Kaleidoloop is already connected to power, press the Power Switch for one second, or until the LEDs turn on. 
 
-The same button is used to power down. Hold the button for one second, or until the LEDs turn purple. Don't fret! Everything you've recorded is saved.
+The same button is used to power down. Hold the button for one second, or until the LEDs flash purple. Don't fret! Everything you've recorded is saved.
 
-### Sound Output
+#### Batteries
 
-Kaleidoloop outputs audio from the speaker or the top right 1/4" audio Output Jack. Connect a 1/4" patch cable to speaker or mixer. When a cable is attached the speaker is disabled.
-
-Audio format: 48 kHz, 16-bit.
-
-### Sound Input
-
-Kaleidoloop inputs audio from the top left 1/4"  audio Input Jack. 
-
-Noise from phantom power - Connect a cable to an instrument, synthesizer, mixer, microphone, electric guitar... 
-
-Audio format: 48 kHz, 16-bit.
-
-### Navigating
-
-Everytime you record a loop it is stored in a growing list of loops. Navigate these sounds using the next and previous buttons.
-
-### Volume Control
-
-Turn it up!
-
-### Record
-
-Press the center button to begin recording. Press again to stop recording. When you stop recording the sound will immediately being looping. Playback will continue during record, so if you are recording with the mic and don't want it bleeding thru, turn it down.
-
-### Mode Select
-
-This button cycles through six playback modes.
-
-### Knobs 1 & 2
-
-These knobs control different things depending on the playback Mode
-
-## Default Playback Modes
-
-The 'stock' **Modes** are:  
-
-|Mode|Name|Description|Key|Right LED Status| |
-|:---:|---|---|---|---|:---|
-|1|Red Mode |Simple Waveform with Vibrato  |Middle B|Purple | ![](images/LEDcolors/purple.png) |
-|2|AddMono|Monophonic Additive Synth |High C|Pink | ![](images/LEDcolors/pink.png) |
-|3|Synth Drums|Synthesized Drums  |High D|Blue |![](images/LEDcolors/blue.png) |
-|4|String Synth|Physical-Modeling Plucked String Synth |High E|Green |![](images/LEDcolors/green.png) |
-|5|Vocal2|Duophonic Voice Synthesizer|High F|Orange |![](images/LEDcolors/orange.png) |
-|6|Sample|Each key plays a different sample|High G|Red |![](images/LEDcolors/red.png) |
-
-
-##Using Batteries
-
-To use your 201 portably, add three 'AA' batteries to the battery compartment. To access the battery compartment, flip 201 over and remove the screw holding the battery door in place. With the door off, insert batteries so that the negative end (-) of the batteries are connected to the springs; the positive end (+) of the batteries are connected to the flat tabs. Replace the door and screw when finished.
+To use your Kaleidoloop portably, add three 'AA' batteries to the battery compartment. To access the battery compartment, flip your Kaleidoloop over and remove the screw holding the battery door in place. With the door off, insert batteries so that the negative end (-) of the batteries are connected to the springs; the positive end (+) of the batteries are connected to the flat tabs. Replace the door and screw when finished.
 
 When the batteries are running low, the Power button will turn red. You may notice that the power button briefly flash red when a louder sound is played. This is normal and just means that the batteries are starting to get low. 
 
@@ -90,16 +45,91 @@ Warnings for battery use:
 - **Do not** mix old & new batteries.  
 - **Do not** mix used & fresh batteries.  
 
+### Sound Output
+
+Kaleidoloop outputs audio from the speaker or the right 1/4" monophonic audio Output Jack. Connect a 1/4" patch cable to speaker or mixer. The speaker is disabled when a cable is connected to the output jack.
+
+Audio format: 48 kHz, 16-bit.
+
+### Sound Input
+
+Kaleidoloop inputs audio from the top left 1/4" monophonic audio Input Jack.
+
+The included microphone receives a small amount of phantom power from the Kaleidoloop. This is important to know for two reasons: 
+
+* The Microphone will only work with the Kaleidoloop.
+* If you connect other powered instruments to the input jack, this phantom power can introduce noise into your external instrument's audio.
+
+That said, you can use this input jack to record audio from other instruments like synthesizers, mixers, electric guitars... 
+
+Audio format: 48 kHz, 16-bit.
+
+### Navigating Tracks
+
+Everytime you record a loop it is stored in a growing list of loops. Navigate these sounds using the Next Track and Previous Track buttons. 
+
+### Volume Control
+
+Turn it up! This knob sets the volume for the speaker and output jack. 
+
+### Record
+
+Press the center button to begin recording. Press again to stop recording. When you stop recording the sound will immediately being looping. Playback will continue during record, so if you are recording with the mic and don't want it bleeding thru, turn the Volume knob down.
+
+The LED above the Record button is green during playback, red during recording.
+
+### Mode Select
+
+This button cycles through six playback modes. The LED above the Mode button cycles through colors in this order: purple, pink, blue, green, orange, white.
+
+### Knobs 1 & 2
+
+These knobs control different paramenters depending on the playback Mode. 
+
+Some modes use a knob to control the playback speed of the recordings. When this knob crosses   the threshold of 100% forward playback, the two LEDs quickly flash red-green-blue. 
+
+### Making the Most of the Kaleidoloop
+
+As mentioned above, playback continues during recording. This opens up all kind of possibilities for creating new sounds. During recording you can do any of the following:
+
+* Adjust the volume of the playback
+* Select a different playback Mode
+* Adjust Knobs 1 & 2 to change playback speed, direction, or other mode parameters
+* Use Previous / Next Track select buttons to play different recordings
+
+Things may get out of hand fairly quickly. Embrace it!
+
+
+## Default Playback Modes
+
+The 'stock' **Modes** are:  
+
+|Mode|Mode LED Color||Name|Description|
+|:---:|---|---|---|---|:---|
+|1|Purple | ![](images/LEDcolors/purple.png) |xxx |xxx  |
+|2|Pink | ![](images/LEDcolors/pink.png) |xxx|xxx|
+|3|Blue |![](images/LEDcolors/blue.png) |xxx|xxx|
+|4|Green |![](images/LEDcolors/green.png) |xxx|xxx|
+|5|Orange |![](images/LEDcolors/orange.png) |xxx|xxx|
+|6|White |![](images/LEDcolors/white.png) |xxx|xxx|
+
+
+
+
 
 ## File Management 
 
 ### Disk Mode 
 
-Let's say you like the loops you've made and would like to hear them on a computer. If Kaleidoloop is powered from a power outlet, turn it off. If it is powered from a computer's usb port, you're halfway there! Connect a USB-C cable (like the one used to power the unit) to a computer's USB port). 
+Let's say you like the loops you've made and would like to hear them / save them on a computer. The Kaleidoloop has a built-in file managment function called *Disk Mode* to facilitate saving and uploading sound files, customizing playback modes, and backing up your Kaleidoloop.
+
+### Entering Disk Mode
+
+If Kaleidoloop is powered from a power outlet, turn it off. If it is powered from a computer's usb port, you're halfway there! Connect a USB-C cable (like the one used to power the unit) to a computer's USB port). 
 
 While Kaleidoloop is on and connected to the computer, press the NEXT button and while holding it down press the MODE button.  Release both buttons and the Kaleidoloop will enter disk mode.
 
-In Disk Mode, Kaleidoloop itself is no longer in recording mode. The LEDs will flash red/green/blue to indicate disk mode. The buttons will not have their normal functions. Instead each will emit a test tone when pressed. This is purely for testing procedures. Do not be alarmed if you press a button and hear a beep. 
+In Disk Mode, Kaleidoloop itself is no longer in its default 'recording mode' and no new recordings can be made. The LEDs will flash red/green/blue to indicate disk mode. The buttons will not have their normal functions. Instead each will emit a test tone when pressed. This is purely for testing procedures. Do not be alarmed if you press a button and hear a beep. 
 
 ### File Management in Disk Mode
 
@@ -110,8 +140,7 @@ On your computer, open a file browser (Finder for Mac, Explorer for Windows). In
 
 Exit Disk Mode with the same key combo: pressing NEXT and while holding it down pressing MODE.
 
-![](images/modes.png)
-
+![](images/diskmode.png)
 
 ### Loading Your Own Loops
 The Kaleidoloop will save its recordings with numbers: 1.wav, 2.wav, and so on. You can add your own files to the SD card using Disk Mode. The files can be named whatever you would like, but know that the Kaleidoloop will sort the files by number first and then letter as shown here:
@@ -123,6 +152,14 @@ Some file tips:
 * Please avoid 'spaces' in file names. Use hyphens and/or underscores instead: *0_cool-drums.wav*. 
 * Files should be in 48KHz 16-bit .wav format.
 
+### Customizing Playback Modes
+
+You can also use Disk Mode to reorder, remove, and/or upload new playback modes to the Kaleidoloop. The playback modes can be found here:
+
+![](images/modes.png)
+
+The Kaleidoloop needs each mode to be in its own folder. Each folder needs to have a number 1-6 (no repeats). 
+
 ## Setup Examples
 
 
@@ -130,7 +167,7 @@ Some file tips:
 
 ### Audio Settings
 
-Kaleidoloop records and plays back audio at 16-bit 48kHz. Recorded audio files are in the WAV format. 
+Kaleidoloop records and plays back audio at 16-bit 48kHz. Recorded audio files are in the WAV format.
 
 ### MicroSD Card
 
@@ -142,7 +179,7 @@ If a larger partition for audio recordings is desired, you may use a larger micr
 
 ### USB 2.0 Jack
 
-There is a USB 3.0 jack on the rear next to the microSD card slot. This jack does not have a specific purpose at the time of this release. Stay tuned for future OS updates.
+There is a USB 2.0 jack on the rear next to the microSD card slot. This jack does not have a specific purpose at the time of this release. Stay tuned for future OS updates.
 
 ## Burning microSD Card Disk Image
 
