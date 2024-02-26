@@ -114,12 +114,12 @@ The 'stock' **Modes** are:
 
 |Mode|Mode LED Color||Name|Knob 1|Knob 2|
 |:---:|:---:|---|---|---|---|
-|1|Purple | ![](images/LEDcolors/purple.png) |Smooth w/ Vibrato | |
-|2|Pink | ![](images/LEDcolors/pink.png) |stepped with octave up down |xxx|X|
-|3|Blue |![](images/LEDcolors/blue.png) |scratcher /scrubber|xxx|X|
-|4|Green |![](images/LEDcolors/green.png) |fwd / backward mix |xxx|X|
-|5|Orange |![](images/LEDcolors/orange.png) |reverb|xxx|X|
-|6|White |![](images/LEDcolors/white.png) |delay|xxx|X|
+|1|Purple | ![](images/LEDcolors/purple.png) |Smooth & Vibrato |Speed Modulation Rate (vibrato)|-4x to +4x Playback Speed|
+|2|Pink | ![](images/LEDcolors/pink.png) |Step & Vibrato |Speed Modulation Rate (vibrato)|-4x to +4x Playback Speed in 0.5x intervals|
+|3|Blue |![](images/LEDcolors/blue.png) |Simultaneous Forward & Backward Playback|Mix of two playback tracks|-4x to +4x Playback Speed|
+|4|Green |![](images/LEDcolors/green.png) |Distortion & Filter|Distortion Amount|Filter Cutoff Frequency|
+|5|Orange |![](images/LEDcolors/orange.png) |Reverb|Room Size|Wet/Dry Mix|
+|6|White |![](images/LEDcolors/white.png) |Delay|Feedback Amount|Delay Time: 0-2000ms|
 
 
 
@@ -166,10 +166,7 @@ You can also use Disk Mode to reorder, remove, and/or upload new playback modes 
 
 ![](images/modes.png)
 
-The Kaleidoloop needs each mode to be in its own folder. Each folder needs to have a number 1-6 (no repeats). 
-
-## Setup Examples
-
+The Kaleidoloop needs each mode to be in its own folder. Each folder name needs to begin with a number 1-6 (no repeats). Modes are writen in Pure Data. Each folder needs to have a 'module.pd' file and a copy of the 'waveplayer~.pd-linux' file.
 
 ## Specifications	
 
