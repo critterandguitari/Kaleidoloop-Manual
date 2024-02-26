@@ -5,7 +5,7 @@ Kaleidoloop is portable sound recorder manipulator! Use this manual to help reco
 ## Getting Started
 
 ### Safety First!
-As with all audio recording devices, make all cable connections and slowly turn up the volume. This will avoid unexpected bursts of sound from your speakers or headphones. Protect your ears!
+As with all audio devices, it is important to protect your ears! Before using the Kaleidoloop, turn the volume knob down (all the way to the left). Then make all cable connections, turn it on, and *then* slowly turn up the volume. This will avoid unexpected bursts of sound from your speakers or headphones. 
 
 ### Quick Setup
 You probably want to get started right away! Here are a few steps to get you making music.
@@ -19,6 +19,7 @@ You probably want to get started right away! Here are a few steps to get you mak
 
 ## The Top Panel
 
+Here are the controls, LED indicators, and audio input and output jacks found on the top of your Kaleidoloop:
 ![](images/top_panel.png)
 
 ## Using Your Kaleidoloop
@@ -62,7 +63,7 @@ The included microphone receives a small amount of phantom power from the Kaleid
 
 That said, you can use this input jack to record audio from other instruments like synthesizers, mixers, electric guitars... 
 
-Audio format: 48 kHz, 16-bit.
+Audio format: 48 kHz, 16-bit, monophonic.
 
 ### Navigating Tracks
 
@@ -88,9 +89,9 @@ These knobs control different paramenters depending on the playback Mode.
 
 Some modes use a knob to control the playback speed of the recordings. When this knob crosses   the threshold of 100% forward playback, the two LEDs quickly flash red-green-blue. 
 
-### Making the Most of the Kaleidoloop
+### Harnessing 100% of Your Kaleidoloop
 
-As mentioned above, playback continues during recording. This opens up all kind of possibilities for creating new sounds. During recording you can do any of the following:
+As mentioned above, playback continues during recording. This opens up all kinds of possibilities for creating new sounds. During recording you can do any/all of the following:
 
 * Adjust the volume of the playback
 * Select a different playback Mode
@@ -127,9 +128,9 @@ Let's say you like the loops you've made and would like to hear them / save them
 
 If Kaleidoloop is powered from a power outlet, turn it off. If it is powered from a computer's usb port, you're halfway there! Connect a USB-C cable (like the one used to power the unit) to a computer's USB port). 
 
-While Kaleidoloop is on and connected to the computer, press the NEXT button and while holding it down press the MODE button.  Release both buttons and the Kaleidoloop will enter disk mode.
+While Kaleidoloop is on and connected to the computer, press the **Next Track** button and while holding it down press the **Mode** button.  Release both buttons and the Kaleidoloop will enter disk mode. The LEDs will flash red/green/blue to indicate disk mode.
 
-In Disk Mode, Kaleidoloop itself is no longer in its default 'recording mode' and no new recordings can be made. The LEDs will flash red/green/blue to indicate disk mode. The buttons will not have their normal functions. Instead each will emit a test tone when pressed. This is purely for testing procedures. Do not be alarmed if you press a button and hear a beep. 
+In Disk Mode, Kaleidoloop itself is no longer in its default 'recording mode' and no new recordings can be made.  The buttons will not have their normal functions. Instead each will emit a test tone when pressed. This is purely for testing procedures. Do not be alarmed if you press a button and hear a beep. 
 
 ### File Management in Disk Mode
 
@@ -143,14 +144,14 @@ Exit Disk Mode with the same key combo: pressing NEXT and while holding it down 
 ![](images/diskmode.png)
 
 ### Loading Your Own Loops
-The Kaleidoloop will save its recordings with numbers: 1.wav, 2.wav, and so on. You can add your own files to the SD card using Disk Mode. The files can be named whatever you would like, but know that the Kaleidoloop will sort the files by number first and then letter as shown here:
+The Kaleidoloop will save its monophonic recordings with numbers: 1.wav, 2.wav, and so on. You can add your own files to the SD card using Disk Mode. The files can be named whatever you would like, but know that the Kaleidoloop will sort the files by number first and then letter as shown here:
 
 ![](images/recordings.png)
 
 Some file tips:
 
 * Please avoid 'spaces' in file names. Use hyphens and/or underscores instead: *0_cool-drums.wav*. 
-* Files should be in 48KHz 16-bit .wav format.
+* Files must be monophonic and in the 48KHz 16-bit .wav format.
 
 ### Customizing Playback Modes
 
