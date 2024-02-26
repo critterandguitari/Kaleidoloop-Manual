@@ -10,17 +10,24 @@ As with all audio devices, it is important to protect your ears! Before using th
 ### Quick Setup
 You probably want to get started right away! Here are a few steps to get you making music.
    
-1. Use Batteries or connect the USB power supply to an outlet, then to the USB-C jack on rear panel.  
-2. Power on by pressing and holding the top-right button until the LEDs flash.
-3. Record a sound by pressing the center button. The center LED turns red during recording. 
-4. Press the button again to stop recording.
-5. Playback begins in a loop.
-6. Use the mode button change playback mode and use the knobs to manipulate plaback.
+1. Get power connected: Install batteries (see below) or connect the USB-A end of the cable to the USB power supply, the power supply to an outlet, then connect the other end to the USB-C jack on rear panel.  
+1. Connect the microphone to the audio input jack - the top left jack.
+1. Power on by pressing and holding the top-right button until the LEDs flash.
+1. Record a sound by pressing the center button. The LED above the center button turns red during recording. 
+1. Press the button again to stop recording.
+1. Playback begins. The newly recorded sample will loop.
+1. Press the mode button (top left button) to change playback mode and adjust Knobs 1 & 2 to manipulate plaback.
+1. When additional recordings have been made, press the previous/next track buttons to select different tracks.
 
 ## The Top Panel
 
 Here are the controls, LED indicators, and audio input and output jacks found on the top of your Kaleidoloop:
 ![](images/top_panel.png)
+
+## The Rear Panel
+
+Two USB ports and a microSD slot are found on the rear of your Kaleidoloop:
+![](images/rear_panel.png)
 
 ## Using Your Kaleidoloop
 
@@ -105,14 +112,14 @@ Things may get out of hand fairly quickly. Embrace it!
 
 The 'stock' **Modes** are:  
 
-|Mode|Mode LED Color||Name|Description|
-|:---:|---|---|---|---|:---|
-|1|Purple | ![](images/LEDcolors/purple.png) |xxx |xxx  |
-|2|Pink | ![](images/LEDcolors/pink.png) |xxx|xxx|
-|3|Blue |![](images/LEDcolors/blue.png) |xxx|xxx|
-|4|Green |![](images/LEDcolors/green.png) |xxx|xxx|
-|5|Orange |![](images/LEDcolors/orange.png) |xxx|xxx|
-|6|White |![](images/LEDcolors/white.png) |xxx|xxx|
+|Mode|Mode LED Color||Name|Knob 1|Knob 2|
+|:---:|:---:|---|---|---|---|
+|1|Purple | ![](images/LEDcolors/purple.png) |Smooth w/ Vibrato | |
+|2|Pink | ![](images/LEDcolors/pink.png) |stepped with octave up down |xxx|X|
+|3|Blue |![](images/LEDcolors/blue.png) |scratcher /scrubber|xxx|X|
+|4|Green |![](images/LEDcolors/green.png) |fwd / backward mix |xxx|X|
+|5|Orange |![](images/LEDcolors/orange.png) |reverb|xxx|X|
+|6|White |![](images/LEDcolors/white.png) |delay|xxx|X|
 
 
 
@@ -178,9 +185,9 @@ There is a 1 GB partition for the operating system and a 7 GB partition for audi
 
 If a larger partition for audio recordings is desired, you may use a larger microSD card as long as it is first flashed with the operating system. Kaleidoloop will detect the remaining space upon its first boot up. The remaining space will become the new audio recording partition. 
 
-### USB 2.0 Jack
+### USB-A Jack
 
-There is a USB 2.0 jack on the rear next to the microSD card slot. This jack does not have a specific purpose at the time of this release. Stay tuned for future OS updates.
+There is a USB-A port on the rear next to the microSD card slot. This port does not have a specific purpose at the time of this release. Stay tuned for future OS updates.
 
 ## Burning microSD Card Disk Image
 
@@ -196,8 +203,8 @@ Follow these steps to burn a new microSD card:
 
 1. Download the flasher program to your computer: https://www.balena.io/etcher/
 1. Power down Kaleidoloop. Disconnect the USB-C cable. 
-1. Locate the thin slit in the rear of the enclosure (between the USB-C port and the USB 3.0 port.)
-1. Eject the microSD card: Use a pin, paperclip, guitar pick, or another microSD card to first press the black microSD card in, then let spring out gently.
+1. Locate the thin slit in the rear of the enclosure (between the USB-C port and the USB-A port.) This is the microSD card slot.
+1. Eject the microSD card: Use a flathead screwdriver, paperclip, guitar pick, or similar tool to first press the black microSD card in, then let spring out gently.
 1. Insert microSD into your computer (you may need an adapter or card reader)
 1. Use the Etcher program to burn the OS file on to the SD Card. When Etcher is finished your computer may display a message similar to 'This disk is not readable.' This message is normal and you may click 'Eject' to proceed.
 1. Remove the microSD card from your computer and reinsert it in Kaleidoloop. Make sure that the microSD card is going into the socket on the circuit board, as it is easy to drop it into the device. If you can wiggle it a lot, it probably is not in socket. Use the same tool to press it in until you hear/feel a 'click.'
