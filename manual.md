@@ -195,7 +195,7 @@ This will completely wipe the microSD card clean, so make sure to backup anythin
 Follow these steps to burn a new microSD card:
 
 1. Download the microSD card disk image to your computer: 
-<br> [](asdf)
+<br> [https://cgdiskimages.nyc3.digitaloceanspaces.com/kaleidoloop-v1.0.img.zip](kaleidoloop-v1.0.img.zip)
 <br> Current OS release: Kaleidoloop v1.0. Requires 8GB or larger microSD card.
 
 1. Download the flasher program to your computer: https://www.balena.io/etcher/
