@@ -112,11 +112,11 @@ Things may get out of hand fairly quickly. Embrace it! - you never know what you
 
 The 'stock' **Modes** are:  
 
-|Mode|Mode LED Color||Name|Knob 1|Knob 2|
+|Mode |Mode LED Color | |Name |Knob 1 |Knob 2 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1|Purple | ![](images/LEDcolors/purple.png) |Smooth & Vibrato |Speed Modulation Rate (vibrato)|-4x to +4x Playback Speed|
 |2|Pink | ![](images/LEDcolors/pink.png) |Step & Vibrato |Speed Modulation Rate (vibrato)|-4x to +4x Playback Speed in 0.5x intervals|
-|3|Blue |![](images/LEDcolors/blue.png) |Simultaneous Forward & Backward Playback|Mix of two playback tracks|-4x to +4x Playback Speed|
+|3|Blue |![](images/LEDcolors/blue.png) |Simultaneous Forward & Backward Playback | Mix of two playback tracks|-4x to +4x Playback Speed|
 |4|Green |![](images/LEDcolors/green.png) |Distortion & Filter|Distortion Amount|Filter Cutoff Frequency|
 |5|Orange |![](images/LEDcolors/orange.png) |Reverb|Room Size|Wet/Dry Mix|
 |6|White |![](images/LEDcolors/white.png) |Delay|Feedback Amount|Delay Time: 0-2000ms|
