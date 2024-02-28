@@ -92,7 +92,7 @@ This button cycles through six playback modes. The LED above the Mode button cyc
 
 ### Knobs 1 & 2
 
-These knobs control different paramenters depending on the playback Mode. 
+These knobs control different parameters depending on the playback Mode. Please see the chart below to see what the knobs control in the 'stock' modes.
 
 Some modes use a knob to control the playback speed of the recordings. When this knob crosses   the threshold of 100% forward playback, the two LEDs quickly flash red-green-blue. 
 
@@ -105,7 +105,7 @@ As mentioned above, playback continues during recording. This opens up all kinds
 * Adjust Knobs 1 & 2 to change playback speed, direction, or other mode parameters
 * Use Previous / Next Track select buttons to play different recordings
 
-Things may get out of hand fairly quickly. Embrace it!
+Things may get out of hand fairly quickly. Embrace it! - you never know what you might create!
 
 
 ## Default Playback Modes
