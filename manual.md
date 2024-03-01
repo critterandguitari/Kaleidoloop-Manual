@@ -61,14 +61,14 @@ Audio format: 48 kHz, 16-bit.
 
 ### Sound Input
 
-Kaleidoloop inputs audio from the top left 1/4" monophonic audio Input Jack.
+The Kaleidoloop features a 1/4" monophonic microphone input jack.
 
-The included microphone receives a small amount of phantom power from the Kaleidoloop. This is important to know for two reasons: 
+This input is specifically designed for the Kaleidoloop microphone and provides a small amount of bias voltage to power the mic. 
+
+This is important to know for two reasons: 
 
 * The Microphone will only work with the Kaleidoloop.
-* If you connect other powered instruments to the input jack, this phantom power can introduce noise into your external instrument's audio.
-
-That said, you can use this input jack to record audio from other instruments like synthesizers, mixers, electric guitars... 
+* If you connect other sources to the input jack, the bias voltage can introduce noise into the signal.
 
 Audio format: 48 kHz, 16-bit, monophonic.
 
